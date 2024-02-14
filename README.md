@@ -1,4 +1,1 @@
-# test1
-This is practise Repository
-hi i am akshaya
-# task2
+This is a test repository to learn git and github.
